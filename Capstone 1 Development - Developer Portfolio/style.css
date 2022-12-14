@@ -1,0 +1,10 @@
+.bg-gradiant{
+  background-image: linear-gradient(120deg,#002147,#000930,#00011B);
+}
+.bg-gradiant-shadow{
+    box-shadow: 2px 2px 5px rgba(0, 0, 128, .5);
+}
+.bg-darkblue{
+    background-color: #002147;
+}
+
